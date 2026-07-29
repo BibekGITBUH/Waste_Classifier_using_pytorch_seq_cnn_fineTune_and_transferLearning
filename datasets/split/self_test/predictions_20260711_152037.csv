@@ -1,0 +1,15 @@
+index,image_path,predicted_class,confidence
+1,datasets\split\self_test\glass1.jpeg,paper,0.9997734427452087
+2,datasets\split\self_test\glass2.jpeg,glass,0.9674997329711914
+3,datasets\split\self_test\glass3.jpeg,glass,0.9919320940971375
+4,datasets\split\self_test\glass4.jpeg,plastic,0.533715009689331
+5,datasets\split\self_test\metal1.jpeg,metal,0.9944572448730469
+6,datasets\split\self_test\metal2.jpeg,glass,0.5552875995635986
+7,datasets\split\self_test\organic1.jpeg,organic,0.8546212911605835
+8,datasets\split\self_test\paper1.jpeg,paper,0.9992496371269226
+9,datasets\split\self_test\plastic1.jpeg,plastic,0.5594466924667358
+10,datasets\split\self_test\plastic2.jpeg,paper,0.9931358098983765
+11,datasets\split\self_test\plastic3.jpeg,glass,0.5107075572013855
+12,datasets\split\self_test\plastic4.jpeg,plastic,0.7230623960494995
+13,datasets\split\self_test\plastic5.jpeg,plastic,0.7916743159294128
+14,datasets\split\self_test\plastic6.jpeg,paper,0.775244951248169
